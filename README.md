@@ -61,3 +61,7 @@ text file. The answer is fed back to the user via the chatbot interface. Feedbac
 response, along with accuracy scores, is collected and stored to train the model for continuous
 improvement. A feedback mechanism that optimizes the performance of the nodule detection
 system and AI chatbot.
+
+
+<img width="900" height="2000" alt="image_jpeg(1)" src="https://github.com/user-attachments/assets/86e8f967-9e33-4ce4-bbb9-9449793d1db0" />
+
